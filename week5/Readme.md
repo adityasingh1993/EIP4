@@ -1,4 +1,9 @@
-###
+### Accuracy<br/>
+####  val_gender_output_acc: 0.9828 - val_image_quality_output_acc: 0.8993 - val_age_output_acc: 0.9061 - val_weight_output_acc: 0.9447 - val_bag_output_acc: 0.9283 - val_footwear_output_acc: 0.9434 - val_pose_output_acc: 0.9760 - val_emotion_output_acc: 0.9491
+<br/>
+
+###### ----------------------------------------------------------------------------------------------------------------------------
+
 Epoch 1/50
 360/360 [==============================] - 76s 210ms/step - loss: 7.9413 - gender_output_loss: 0.6837 - image_quality_output_loss: 0.9995 - age_output_loss: 1.4449 - weight_output_loss: 1.0027 - bag_output_loss: 0.9336 - footwear_output_loss: 0.9939 - pose_output_loss: 0.9479 - emotion_output_loss: 0.9351 - gender_output_acc: 0.5670 - image_quality_output_acc: 0.5443 - age_output_acc: 0.3862 - weight_output_acc: 0.6371 - bag_output_acc: 0.5519 - footwear_output_acc: 0.5299 - pose_output_acc: 0.6110 - emotion_output_acc: 0.7101 - val_loss: 8.1677 - val_gender_output_loss: 0.6758 - val_image_quality_output_loss: 1.0184 - val_age_output_loss: 1.4208 - val_weight_output_loss: 1.0637 - val_bag_output_loss: 1.0040 - val_footwear_output_loss: 1.0868 - val_pose_output_loss: 0.9412 - val_emotion_output_loss: 0.9570 - val_gender_output_acc: 0.5805 - val_image_quality_output_acc: 0.5541 - val_age_output_acc: 0.3959 - val_weight_output_acc: 0.6396 - val_bag_output_acc: 0.5620 - val_footwear_output_acc: 0.4838 - val_pose_output_acc: 0.6143 - val_emotion_output_acc: 0.7115
 Epoch 2/50
